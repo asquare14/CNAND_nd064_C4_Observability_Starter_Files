@@ -12,7 +12,7 @@
 ![](./answer-img/prometheus-data-source.jpg)
 
 ## Create a Basic Dashboard
-*TODO:* Create a dashboard in Grafana that shows Prometheus as a source. Take a screenshot and include it here.
+*DONE:* Create a dashboard in Grafana that shows Prometheus as a source. Take a screenshot and include it here.
 ![](./answer-img/prometheus-dashboard.jpg)
 
 ## Describe SLO/SLI
